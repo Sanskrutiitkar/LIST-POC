@@ -1,0 +1,14 @@
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\bin\Debug\net8.0\List POC- CollegeAPP.exe
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\bin\Debug\net8.0\List POC- CollegeAPP.deps.json
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\bin\Debug\net8.0\List POC- CollegeAPP.runtimeconfig.json
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\bin\Debug\net8.0\List POC- CollegeAPP.dll
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\bin\Debug\net8.0\List POC- CollegeAPP.pdb
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\List POC- CollegeAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\List POC- CollegeAPP.AssemblyInfoInputs.cache
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\List POC- CollegeAPP.AssemblyInfo.cs
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\List POC- CollegeAPP.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\List POC- CollegeAPP.dll
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\refint\List POC- CollegeAPP.dll
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\List POC- CollegeAPP.pdb
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\List POC- CollegeAPP.genruntimeconfig.cache
+C:\Users\sanskruti.itkar\source\repos\List POC- CollegeAPP\obj\Debug\net8.0\ref\List POC- CollegeAPP.dll
